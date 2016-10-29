@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "82637823541",
+    "firebase_url": "https://ophthal-235d2.firebaseio.com",
+    "project_id": "ophthal-235d2",
+    "storage_bucket": "ophthal-235d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82637823541:android:43c62f5394ed2e70",
+        "android_client_info": {
+          "package_name": "team14opthalmoscope.ophthal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82637823541-adu4i6te3lrbhec5ota37m1tof0qslbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "team14opthalmoscope.ophthal",
+            "certificate_hash": "FEC53062EC9634C05B9DFD377BBCC36040E88997"
+          }
+        },
+        {
+          "client_id": "82637823541-lk4dabqhthrsfe8aja4v8g864rdbb09r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_rX-90AhcmJ9b9NowPyjVFyAspUpw60s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82637823541-lk4dabqhthrsfe8aja4v8g864rdbb09r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
